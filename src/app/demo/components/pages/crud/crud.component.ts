@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Product } from "./models/pet.model";
-import { ProductService } from "./services/pet.service";
+import { Product } from "./models/pizza.model";
+import { ProductService } from "./services/pizza.service";
 import { MessageService } from 'primeng/api';
 import { Table } from 'primeng/table';
 
